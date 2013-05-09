@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">GeoTask</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="menu_exit">Exit</string>
+    <string name="title">Exit</string>
+    <string name="enter">Yes</string>
+    <string name="exit_text">Do you want exit the application?</string>
+    <string name="exit_cancel">cancel</string>
+    <string name="about">About</string>
+    <string name="AboutContent">This Android Application is for locating the places you have been by using GPS</string>
+
+</resources>
